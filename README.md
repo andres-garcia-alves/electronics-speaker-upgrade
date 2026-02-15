@@ -17,8 +17,8 @@ This project is a **work-in-progress**.
 
 - Power input: 12 VDC
 - 2 PCBs are included:
-  - Main PCB: for power, BT, audio amplifier features.
-  - Auxiliar PCB for UX: volume slider, led, audio jack.
+  - Main PCB: for power, BT and audio amplifier features.
+  - Auxiliar PCB (for UX): volume slider, LED and audio jack.
 
 &nbsp;
 
@@ -58,7 +58,7 @@ This project is a **work-in-progress**.
 
 | Assembly                                             | Assembly                                             |
 |------------------------------------------------------|------------------------------------------------------|
-| ![](Resources/99-comming-soon.jpg)                    | ![](Resources/99-comming-soon.jpg)                  |
+| ![](Resources/99-comming-soon.jpg)                   | ![](Resources/99-comming-soon.jpg)                   |
 
 | Schematics Diagram                                   | PCB Diagram                                          |
 |------------------------------------------------------|------------------------------------------------------|
