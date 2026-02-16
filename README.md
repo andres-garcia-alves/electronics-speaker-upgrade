@@ -81,7 +81,7 @@ See 'Resources' folder for more pictures & videos of the project.
 
 ### Version History
 
-v1.0 (2026.02.15) - Adding schematics and PCB.  
+v1.0 (2026.02.15) - Adding base schematics and PCB.  
 v1.1 (2026.02.16) - Improvements on schematics and PCB.  
 
 &nbsp;
