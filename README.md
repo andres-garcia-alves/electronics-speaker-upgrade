@@ -69,7 +69,7 @@ This project is a **work-in-progress**.
 
 | PCB Render 3D                                        | PCB Render 3D                                        |
 |------------------------------------------------------|------------------------------------------------------|
-| ![](Resources/03-schematics-diagram.png)             | ![](Resources/06-pcb-render-3d-bottom.png)           |
+| ![](Resources/05-pcb-render-3d-top.png)              | ![](Resources/06-pcb-render-3d-bottom.png)           |
 
 | Project Final                                        | Project Final                                        |
 |------------------------------------------------------|------------------------------------------------------|
