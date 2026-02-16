@@ -4438,6 +4438,28 @@
 			)
 		)
 	)
+	(global_label "BT_AUDIO"
+		(shape input)
+		(at 62.23 115.57 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "458bda7f-3764-4e2e-be3c-5dff3718b95a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 74.0448 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "LED"
 		(shape input)
 		(at 124.46 114.3 0)
@@ -4495,28 +4517,6 @@
 		(uuid "4e7648df-7fde-4fa5-8e8f-37ba7f129c8c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 177.0962 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BT_AUDIO"
-		(shape input)
-		(at 62.23 118.11 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "50abe08a-a541-495e-9767-4eb643238d5b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.0448 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4764,6 +4764,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+5V"
+		(shape input)
+		(at 62.23 118.11 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8b7c600b-3558-4086-b535-189e022d2509")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 69.0857 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5177,28 +5199,6 @@
 		(uuid "d1edae94-f3df-48ce-8d1c-63c28ea2f5aa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 182.1762 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "+5V"
-		(shape input)
-		(at 62.23 115.57 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d46d4488-1f0d-4450-bfe5-33ca2dec12f9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 69.0857 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
