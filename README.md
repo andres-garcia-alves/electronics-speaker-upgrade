@@ -61,7 +61,7 @@ This project is a **work-in-progress**.
 
 | Assembly                                             | Assembly                                             |
 |------------------------------------------------------|------------------------------------------------------|
-| ![](Resources/02-assembly-03.jpg)                    | ![](Resources/02-assembly-05.jpg)                    |
+| ![](Resources/02-assembly-02.jpg)                    | ![](Resources/02-assembly-05.jpg)                    |
 
 | Schematics Diagram                                   | PCB Diagram                                          |
 |------------------------------------------------------|------------------------------------------------------|
