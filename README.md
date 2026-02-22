@@ -84,6 +84,7 @@ See 'Resources' folder for more pictures & videos of the project.
 v1.0 (2026.02.15) - Adding base schematics and PCB.  
 v1.1 (2026.02.16) - Improvements on schematics and PCB.  
 v1.2 (2026.02.17) - Minor improvements on schematics and PCB.  
+v1.3 (2026.02.21) - Minor improvements on schematics and PCB.  
 
 &nbsp;
 
