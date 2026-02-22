@@ -57,11 +57,11 @@ This project is a **work-in-progress**.
 
 | Breadboard                                           | Assembly                                             |
 |------------------------------------------------------|------------------------------------------------------|
-| ![](Resources/01-breadboard-01.jpg)                  | ![](Resources/99-comming-soon.jpg)                   |
+| ![](Resources/01-breadboard-01.jpg)                  | ![](Resources/02-assembly-01.jpg)                    |
 
 | Assembly                                             | Assembly                                             |
 |------------------------------------------------------|------------------------------------------------------|
-| ![](Resources/99-comming-soon.jpg)                   | ![](Resources/99-comming-soon.jpg)                   |
+| ![](Resources/02-assembly-04.jpg)                    | ![](Resources/02-assembly-05.jpg)                    |
 
 | Schematics Diagram                                   | PCB Diagram                                          |
 |------------------------------------------------------|------------------------------------------------------|
