@@ -9,8 +9,6 @@ The following features are added:
 - DC connector for 12V power supply.
 - On/off switch button.
 
-This project is a **work-in-progress**.
-
 &nbsp;
 
 ### Notes:
@@ -71,9 +69,9 @@ This project is a **work-in-progress**.
 |------------------------------------------------------|------------------------------------------------------|
 | ![](Resources/05-pcb-render-3d-top.png)              | ![](Resources/06-pcb-render-3d-bottom.png)           |
 
-| Project Final                                        | Project Final                                        |
+| 3D Model                                             | Project Final                                        |
 |------------------------------------------------------|------------------------------------------------------|
-| ![](Resources/99-comming-soon.jpg)                   | ![](Resources/99-comming-soon.jpg)                   |
+| ![](Resources/07-model-3d.jpg)                       | ![](Resources/08-project-final-02.jpg)               |
 
 See 'Resources' folder for more pictures & videos of the project.
 
