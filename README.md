@@ -69,9 +69,9 @@ The following features are added:
 |------------------------------------------------------|------------------------------------------------------|
 | ![](Resources/05-pcb-render-3d-top.png)              | ![](Resources/06-pcb-render-3d-bottom.png)           |
 
-| 3D Model                                             | Project Final                                        |
+| Project Final                                        | Project Final                                        |
 |------------------------------------------------------|------------------------------------------------------|
-| ![](Resources/07-model-3d.jpg)                       | ![](Resources/08-project-final-02.jpg)               |
+| ![](Resources/08-project-final-02.jpg)               | ![](Resources/08-project-final-03.jpg)               |
 
 See 'Resources' folder for more pictures & videos of the project.
 
